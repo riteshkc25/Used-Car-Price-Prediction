@@ -48,10 +48,7 @@ Manually determining the fair price of the vehicle is often both subjective and 
 
 ## 📂 Repository Structure  
 ```
-├── archive.zip                         # Raw imported datasets
-├── selected_car_dataframe.parquet      # dataframe with selected attributes
 ├── car_price.pdf                       # Python scripts for data preprocessing and training
-├── randomForest_model.joblib           # Saved model file for deployment
 ├── README.md                           # Project overview
 ```
 
