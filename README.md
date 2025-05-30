@@ -1,5 +1,8 @@
 # 🚗 Comparative Analysis of Machine Learning Models for Used Car Price Estimation
 
+![Image](https://github.com/user-attachments/assets/9ac04a8a-9102-49cb-889b-2f55a4dcf470)
+image generated using microsoft copilot. 
+
 
 ## 📌 Objective  
 This project aims to build a robust machine learning model to predict **price of used cars** using a number of features such as horsepower, mileage, make, model, year, engine type, transmission, fuel type, and location. The goal is to evaluate different models using multiple performance metrics to select the model with the best performance for deployment or further optimization.
